@@ -27,11 +27,25 @@
 ## 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity%20XR-0A0A0A?logo=oculus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white" />
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  </a>
+  <a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/-Unity%20XR-0A0A0A?logo=oculus&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white" />
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white" />
+  </a>
 </p>
