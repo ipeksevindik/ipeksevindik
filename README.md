@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unity%20XR-0A0A0A?logo=oculus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ShaderGraph-000?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VFXGraph-000?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white" />
